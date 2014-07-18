@@ -1,7 +1,9 @@
 #include<stdio.h>
 int main()
 {
-     int p118888881;
+
+     int p1188;
+     int p0011;
 	printf("helllo");
 		return 0;
 }

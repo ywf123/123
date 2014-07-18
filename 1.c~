@@ -1,7 +1,11 @@
 #include<stdio.h>
 int main()
 {
-     int p111;
+<<<<<<< HEAD
+     int p118888881;
+=======
+     int p0011;
+>>>>>>> 789
 	printf("helllo");
 		return 0;
 }
